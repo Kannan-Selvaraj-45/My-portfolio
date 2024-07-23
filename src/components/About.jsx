@@ -13,21 +13,11 @@ const About = () => {
           </p>
         </div>
         <p className="text-xl mt-20 ">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis
-          omnis debitis cumque quisquam ducimus ab vitae impedit repellendus,
-          odio, tempore repellat at iure distinctio officiis fugiat asperiores?
-          Minus nemo assumenda asperiores mollitia blanditiis minima labore et,
-          quia ab a illum ad tempore, velit obcaecati quos saepe numquam, sit
-          dolores quisquam!
+        Hello! I'm Kannan Selvaraj, a passionate and aspiring web developer with a keen interest in building and designing web applications. I am pursing Bachelor's degree in with a degree in Coimbatore institute of engineering and technology with the specialization of Computer science and Engineering, where I gained a solid foundation in programming and software development.During my studies, I developed a strong enthusiasm for web development and have been honing my skills in technologies like React, Tailwind CSS, Express.js, and MongoDB. I enjoy creating intuitive, responsive, and dynamic web applications that provide great user experiences.
         </p>
         <br />
         <p className="text-xl">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita
-          quam, ratione eaque qui ea suscipit incidunt aperiam perferendis
-          cumque eos provident est! Quisquam officia sint soluta natus nihil
-          consequuntur aut ea non reiciendis cum, dicta quidem nesciunt nemo
-          consectetur cumque optio, quia impedit animi veritatis accusantium
-          aliquid vero magni. Quae.
+        I am eager to continue learning and growing as a web developer. My goal is to contribute to exciting projects and work with a team of talented professionals to build impactful web applications.Feel free to explore my portfolio and check out my projects. I am always open to feedback and collaboration opportunities. Let's connect!
         </p>
       </div>
     </div>

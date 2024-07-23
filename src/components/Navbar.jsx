@@ -56,7 +56,7 @@ const Navbar = () => {
               key={id}
               className="px-4 cursor-pointer capitalize text-4xl py-4"
             >
-              <Link to={link} sooth duration={500} onClick={()=>setNav(!nav)}>
+              <Link to={link} smooth duration={900} onClick={()=>setNav(!nav)}>
                 {link}
               </Link>
             </li>

@@ -1,6 +1,6 @@
 import React from "react";
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
-import HeroImage from "../assets/heroImage.png";
+import HeroImage from "../assets/kannan1.jpg";
 import { Link } from "react-scroll";
 const Home = () => {
   return (
@@ -14,9 +14,9 @@ const Home = () => {
             I'm a Web Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            I have 8 years of experience building and designing software.
-            Currently, I love on working web applications using technologies
-            like React,Tailwind,Next JS and GraphQl.
+            I am a passionate web developer eager to start my career in building
+            and designing web applications. I enjoy working with technologies
+            like React, Tailwind CSS, Express.js, and MongoDB.
           </p>
           <div>
             <Link
@@ -35,7 +35,7 @@ const Home = () => {
         <div>
           <img
             src={HeroImage}
-            className="rounded-2xl mx-auto w-2/3 md:w-full"
+            className="rounded-2xl mx-auto w-2/3 md:w-200"
             alt="myProfile"
           />
         </div>
